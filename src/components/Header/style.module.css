@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background: #D9D9D9;
+}
+.nav {
+  display: flex;
+  gap: 30px;
+}
+.nav a {
+  text-decoration: none;
+  width: 200px;
+  padding: 10px;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 17px;
+  
+}
+.active{
+    color: #9B59B6;
+}

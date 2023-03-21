@@ -1,0 +1,25 @@
+.post {
+  border: 2px solid black;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 40px;
+}
+.title {
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: 400;
+}
+.text {
+  word-wrap: break-word;
+  font-size: 22px;
+  line-height: 25px;
+  font-weight: 200;
+}
+.post .del_btn {
+  align-self: flex-end;
+  width: 200px;
+  padding: 10px;
+  cursor: pointer;
+}
