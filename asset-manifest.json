@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/add_posts_localStorage/static/css/main.7b3aae4f.css",
+    "main.js": "/add_posts_localStorage/static/js/main.98b4eb39.js",
+    "index.html": "/add_posts_localStorage/index.html",
+    "main.7b3aae4f.css.map": "/add_posts_localStorage/static/css/main.7b3aae4f.css.map",
+    "main.98b4eb39.js.map": "/add_posts_localStorage/static/js/main.98b4eb39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3aae4f.css",
+    "static/js/main.98b4eb39.js"
+  ]
+}
